@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node bolt.js",
+    "check": "node --check bolt.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^5.1.0",
+    "undici": "^7.29.1"
+  }
+}

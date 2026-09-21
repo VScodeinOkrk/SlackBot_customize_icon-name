@@ -1,0 +1,7 @@
+services:
+  app:
+    image: node:22.22.0
+    tty: true
+    volumes:
+      - .:/app
+    working_dir: /app
