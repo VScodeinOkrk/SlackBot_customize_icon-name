@@ -1,4 +1,4 @@
-# Fairy Slack Bot
+# Slack Bot
 
 Socket Modeで動くSlack Botです。入退室通知、スタンプ集計、リマインダー、トークテーマ、ダイス、ルーレットを提供します。
 
